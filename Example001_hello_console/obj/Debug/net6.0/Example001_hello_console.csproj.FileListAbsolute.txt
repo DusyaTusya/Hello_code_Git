@@ -1,0 +1,16 @@
+D:\Dusenka\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.exe
+D:\Dusenka\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.deps.json
+D:\Dusenka\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.runtimeconfig.json
+D:\Dusenka\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.dll
+D:\Dusenka\Examples\Example001_hello_console\bin\Debug\net6.0\ref\Example001_hello_console.dll
+D:\Dusenka\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.pdb
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.GlobalUsings.g.cs
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.csproj.AssemblyReference.cache
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.AssemblyInfoInputs.cache
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.AssemblyInfo.cs
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.csproj.CoreCompileInputs.cache
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.dll
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\ref\Example001_hello_console.dll
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.pdb
+D:\Dusenka\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.genruntimeconfig.cache
